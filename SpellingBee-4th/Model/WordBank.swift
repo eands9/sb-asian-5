@@ -12,15 +12,15 @@ class WordBank{
     var list = [Word]()
     
     init(){
-        list.append(Word(word:"juggernaut", sentence:""))
-        list.append(Word(word:"pangolin", sentence:""))
-        list.append(Word(word:"mahatma", sentence:""))
-        list.append(Word(word:"rupee", sentence:""))
-        list.append(Word(word:"mongoose", sentence:""))
-        list.append(Word(word:"shampoo", sentence:""))
-        list.append(Word(word:"typhoon", sentence:""))
-        list.append(Word(word:"bamboo", sentence:""))
-        list.append(Word(word:"jackal", sentence:""))
-        list.append(Word(word:"dungaree", sentence:""))
+        list.append(Word(word:"bungalow", sentence:""))
+        list.append(Word(word:"gunnysack", sentence:""))
+        list.append(Word(word:"chutney", sentence:""))
+        list.append(Word(word:"karma", sentence:""))
+        list.append(Word(word:"jute", sentence:""))
+        list.append(Word(word:"yamen", sentence:""))
+        list.append(Word(word:"raj", sentence:""))
+        list.append(Word(word:"kama", sentence:""))
+        list.append(Word(word:"pundit", sentence:""))
+        list.append(Word(word:"loot", sentence:""))
     }
 }
