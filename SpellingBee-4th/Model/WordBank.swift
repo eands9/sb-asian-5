@@ -12,15 +12,15 @@ class WordBank{
     var list = [Word]()
     
     init(){
-        list.append(Word(word:"bungalow", sentence:""))
-        list.append(Word(word:"gunnysack", sentence:""))
-        list.append(Word(word:"chutney", sentence:""))
-        list.append(Word(word:"karma", sentence:""))
-        list.append(Word(word:"jute", sentence:""))
-        list.append(Word(word:"yamen", sentence:""))
-        list.append(Word(word:"raj", sentence:""))
-        list.append(Word(word:"kama", sentence:""))
-        list.append(Word(word:"pundit", sentence:""))
-        list.append(Word(word:"loot", sentence:""))
+        list.append(Word(word:"kavya", sentence:""))
+        list.append(Word(word:"jiva", sentence:""))
+        list.append(Word(word:"pandit", sentence:""))
+        list.append(Word(word:"chintz", sentence:""))
+        list.append(Word(word:"patel", sentence:""))
+        list.append(Word(word:"gymkhana", sentence:""))
+        list.append(Word(word:"basmati", sentence:""))
+        list.append(Word(word:"gingham", sentence:""))
+        list.append(Word(word:"mandir", sentence:""))
+        list.append(Word(word:"bhalu", sentence:""))
     }
 }
