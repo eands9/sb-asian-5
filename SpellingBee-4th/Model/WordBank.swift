@@ -12,10 +12,14 @@ class WordBank{
     var list = [Word]()
     
     init(){
-        list.append(Word(word:"inane", sentence:""))
-        list.append(Word(word:"relevant", sentence:""))
-        list.append(Word(word:"impetuous", sentence:""))
-        list.append(Word(word:"ambivalent", sentence:""))
-        list.append(Word(word:"dejected", sentence:""))
+        list.append(Word(word:"dugong", sentence:""))
+        list.append(Word(word:"guru", sentence:""))
+        list.append(Word(word:"cushy", sentence:""))
+        list.append(Word(word:"seersucker", sentence:""))
+        list.append(Word(word:"jungle", sentence:""))
+        list.append(Word(word:"oolong", sentence:""))
+        list.append(Word(word:"nirvana", sentence:""))
+        list.append(Word(word:"bangle", sentence:""))
+        list.append(Word(word:"cummerbund", sentence:""))
     }
 }
